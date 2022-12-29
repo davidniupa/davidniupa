@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @davidniupa
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on open-scource projects
+- 📫 How to reach me: davidniupa@gmail.com or 778-558-1071
